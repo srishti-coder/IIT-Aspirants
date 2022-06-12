@@ -9,4 +9,6 @@
 
 ---
 </br>
-[LINK]: https://drive.google.com/file/d/1iFJmfZZJdsGuudjnnBl6bg0KFNlQ6vvm/view
+[LINK]: https://srishti-coder.github.io/IIT-Aspirants/New%20folder%20(4)/index2.html
+</br>
+[LINK OF VIDEO]: https://drive.google.com/file/d/1iFJmfZZJdsGuudjnnBl6bg0KFNlQ6vvm/view
